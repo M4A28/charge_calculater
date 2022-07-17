@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حاسبة الاجرة</string>
+    <string name="calculate">احسب</string>
+    <string name="cash_in_your_hand">المبلغ الذي جمعته</string>
+    <string name="charger_price">قيمة الاجرة</string>
+    <string name="passenger_count">عدد الركاب </string>
+    <string name="result">النتائج</string>
+    <string name="charge"> المجموع الكلي للاجرة هو: </string>
+    <string name="increase"> يوجد زيادة في الاجرة بمقدار:  </string>
+    <string name="decrease"> هناك نقصان في الاجرة بمقدار:  </string>
+    <string name="neutral"> الاجرة تمام </string>
+    <string name="warring"> بعض القيم فارغة </string>
+    <string name="clear">مسح</string>
+    <string name="all_field_empty">جميع القيم فارغة</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="about">عن التطبيق</string>
+    <string name="version" formatted="false">طور بواسطة: <a href="">محمد موسى</a> \n\n هذا التطبيق يساعدك على حساب الاجرة عندما تركب المواصلات العامة . \nاذا اعجبك التطبيق  يمكنك مشاركته مع اصدقائك . \nيشرفنا ان تكون احد متابيعينا على مواقع التواصل الاجتماعي.</string>
+    <string name="twitter">twitter</string>
+    <string name="facebook">facebook</string>
+    <string name="github">github</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+    <string name="do_you_want_to_exit">هل تود الخروج من التطبيق؟</string>
+    <string name="share">مشاركة التطبيق باستخدام</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Charger Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="cash_in_your_hand">cash in your hand</string>
+    <string name="charger_price">Charger price</string>
+    <string name="passenger_count">passenger count</string>
+    <string name="result">Result</string>
+    <string name="charge">total cost: </string>
+    <string name="increase">there is increase in charge by </string>
+    <string name="decrease">there is decrease in charge by </string>
+    <string name="neutral">there is no increase in charge</string>
+    <string name="warring"> some values are empty</string>
+    <string name="clear">clear</string>
+    <string name="all_field_empty">all field are empty</string>
+    <string name="share_app">share app</string>
+    <string name="about">about</string>
+    <string name="version" formatted="false">Developed by: <a href="">Mohammed Mosa</a> \n\nThis app help you to calculate ticket charge. \nif you like this app feel free to share it with your friend. \nmay you follow my account in the internet just click icons bellow thank you.</string>
+    <string name="twitter">twitter</string>
+    <string name="facebook">facebook</string>
+    <string name="github">github</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="do_you_want_to_exit">Do you want to exit?</string>
+    <string name="share">Share app  using</string>
+
+</resources>
